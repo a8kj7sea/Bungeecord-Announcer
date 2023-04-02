@@ -1,1 +1,1 @@
-# Bungeecord-Announcer is last version i dpn't wanna to remove it so i have been created new one !
+# Bungeecord-Announcer is old version ,i don't wanna to remove it so i have been to created new one !
